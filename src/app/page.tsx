@@ -33,7 +33,7 @@ export default function Home() {
     </div>
 
     <h1 className="text-4xl my-5 flex items-center justify-center mt-20">Governor Second Cards</h1>
-    <div className="grid xl:grid-cols-4 sm:grid-cols-3 grid-cols-1 xl:gap-10 gap-5 mt-10">
+    <div className="grid xl:grid-cols-2 sm:grid-cols-3 grid-cols-1 xl:gap-10 gap-5 mt-10">
     <a className="hover:scale-105 duration-200 transition-all" href="/tracks/ai/4">
         <Card/>
     </a>
